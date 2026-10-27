@@ -1,0 +1,415 @@
+﻿id,category,english,arabic,us_audio,uk_audio,notes
+TERM-0001,politics,parliament,البرلمان,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0002,politics,legislature,السلطة التشريعية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0003,politics,parliamentary majority,أغلبية برلمانية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0004,politics,absolute majority,أغلبية مطلقة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0005,politics,simple majority,أغلبية بسيطة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0006,politics,minority government,حكومة أقلية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0007,politics,coalition government,حكومة ائتلافية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0008,politics,governing coalition,ائتلاف حاكم,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0009,politics,opposition bloc,كتلة معارضة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0010,politics,caretaker government,حكومة تصريف أعمال,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0011,politics,cabinet reshuffle,تعديل وزاري,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0012,politics,ministerial portfolio,حقيبة وزارية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0013,politics,prime minister,رئيس الوزراء,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0014,politics,head of state,رئيس الدولة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0015,politics,head of government,رئيس الحكومة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0016,politics,confidence vote,تصويت على الثقة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0017,politics,no-confidence motion,اقتراح حجب الثقة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0018,politics,parliamentary session,جلسة برلمانية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0019,politics,legislative bill,مشروع قانون,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0020,politics,draft legislation,تشريع مقترح,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0021,politics,first reading,القراءة الأولى,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0022,politics,second reading,القراءة الثانية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0023,politics,amendment,تعديل,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0024,politics,constitutional court,محكمة دستورية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0025,politics,judicial review,رقابة قضائية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0026,politics,judicial independence,استقلال القضاء,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0027,politics,separation of powers,الفصل بين السلطات,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0028,politics,rule of law,سيادة القانون,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0029,politics,political accountability,المساءلة السياسية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0030,politics,public mandate,تفويض شعبي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0031,politics,political legitimacy,شرعية سياسية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0032,politics,government decree,مرسوم حكومي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0033,politics,presidential decree,مرسوم رئاسي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0034,politics,dissolution of parliament,حل البرلمان,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0035,politics,political faction,فصيل سياسي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0036,politics,party platform,برنامج حزبي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0037,politics,cross-party agreement,اتفاق عابر للأحزاب,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0038,politics,political polarization,استقطاب سياسي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0039,elections,general election,انتخابات عامة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0040,elections,legislative election,انتخابات تشريعية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0041,elections,presidential election,انتخابات رئاسية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0042,elections,local election,انتخابات محلية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0043,elections,electoral threshold,نسبة الحسم,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0044,elections,proportional representation,التمثيل النسبي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0045,elections,electoral district,دائرة انتخابية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0046,elections,constituency,دائرة انتخابية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0047,elections,ballot,ورقة اقتراع,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0048,elections,ballot box,صندوق اقتراع,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0049,elections,polling station,مركز اقتراع,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0050,elections,polling booth,معزل انتخابي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0051,elections,registered voter,ناخب مسجل,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0052,elections,eligible voter,ناخب يحق له التصويت,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0053,elections,voter turnout,نسبة المشاركة في التصويت,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0054,elections,exit poll,استطلاع عند الخروج من مراكز الاقتراع,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0055,elections,opinion poll,استطلاع رأي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0056,elections,pre-election survey,استطلاع قبل الانتخابات,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0057,elections,electoral commission,لجنة انتخابات,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0058,elections,vote counting,فرز الأصوات,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0059,elections,official results,نتائج رسمية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0060,elections,preliminary results,نتائج أولية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0061,elections,projected seats,مقاعد متوقعة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0062,elections,undecided voters,ناخبون لم يحسموا خيارهم,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0063,elections,swing voters,ناخبون متأرجحون,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0064,elections,swing district,دائرة انتخابية متأرجحة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0065,elections,party list,قائمة حزبية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0066,elections,independent candidate,مرشح مستقل,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0067,elections,coalition negotiations,مفاوضات تشكيل ائتلاف,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0068,elections,kingmaker,طرف مرجّح لكفة تشكيل الحكومة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0069,elections,political campaign,حملة انتخابية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0070,elections,campaign pledge,تعهد انتخابي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0071,elections,manifesto,بيان انتخابي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0072,elections,incumbent,شاغل المنصب,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0073,elections,opinion-poll margin of error,هامش الخطأ في استطلاع الرأي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0074,elections,voter suppression,عرقلة مشاركة الناخبين,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0075,elections,electoral fraud,تزوير انتخابي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0076,elections,vote share,حصة الأصوات,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0077,elections,seat allocation,توزيع المقاعد,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0078,diplomacy,bilateral relations,علاقات ثنائية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0079,diplomacy,multilateral talks,محادثات متعددة الأطراف,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0080,diplomacy,diplomatic mission,بعثة دبلوماسية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0081,diplomacy,foreign minister,وزير الخارجية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0082,diplomacy,diplomatic envoy,مبعوث دبلوماسي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0083,diplomacy,ambassador,سفير,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0084,diplomacy,special representative,ممثل خاص,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0085,diplomacy,peace negotiations,مفاوضات سلام,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0086,diplomacy,mediated talks,محادثات بوساطة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0087,diplomacy,international mediation,وساطة دولية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0088,diplomacy,ceasefire agreement,اتفاق وقف إطلاق النار,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0089,diplomacy,temporary truce,هدنة مؤقتة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0090,diplomacy,humanitarian pause,هدنة إنسانية مؤقتة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0091,diplomacy,de-escalation,خفض التصعيد,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0092,diplomacy,escalation,تصعيد,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0093,diplomacy,security guarantees,ضمانات أمنية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0094,diplomacy,confidence-building measures,تدابير بناء الثقة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0095,diplomacy,diplomatic breakthrough,اختراق دبلوماسي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0096,diplomacy,diplomatic stalemate,جمود دبلوماسي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0097,diplomacy,peace process,عملية سلام,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0098,diplomacy,negotiating position,موقف تفاوضي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0099,diplomacy,draft resolution,مشروع قرار,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0100,diplomacy,UN Security Council,مجلس الأمن الدولي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0101,diplomacy,General Assembly,الجمعية العامة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0102,diplomacy,veto power,حق النقض,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0103,diplomacy,international recognition,اعتراف دولي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0104,diplomacy,two-state solution,حل الدولتين,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0105,diplomacy,territorial dispute,نزاع إقليمي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0106,diplomacy,normalization agreement,اتفاق تطبيع,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0107,diplomacy,economic sanctions,عقوبات اقتصادية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0108,diplomacy,sanctions relief,تخفيف العقوبات,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0109,diplomacy,embargo,حظر,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0110,diplomacy,arms embargo,حظر توريد الأسلحة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0111,diplomacy,trade embargo,حظر تجاري,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0112,diplomacy,diplomatic isolation,عزلة دبلوماسية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0113,diplomacy,international humanitarian law,القانون الدولي الإنساني,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0114,diplomacy,international law,القانون الدولي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0115,diplomacy,consular access,إمكانية التواصل القنصلي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0116,diplomacy,declaration of principles,إعلان مبادئ,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0117,palestine,occupied West Bank,الضفة الغربية المحتلة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0118,palestine,East Jerusalem,القدس الشرقية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0119,palestine,Gaza Strip,قطاع غزة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0120,palestine,Israeli settlement,مستوطنة إسرائيلية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0121,palestine,settlement expansion,التوسع الاستيطاني,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0122,palestine,settler outpost,بؤرة استيطانية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0123,palestine,unauthorized outpost,بؤرة استيطانية غير مرخصة وفق القانون الإسرائيلي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0124,palestine,settler violence,عنف المستوطنين,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0125,palestine,settler attack,اعتداء للمستوطنين,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0126,palestine,olive harvest,موسم قطف الزيتون,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0127,palestine,olive grove,بستان زيتون,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0128,palestine,olive press,معصرة زيتون,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0129,palestine,olive yield,محصول الزيتون,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0130,palestine,agricultural access,الوصول إلى الأراضي الزراعية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0131,palestine,access restrictions,قيود الوصول,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0132,palestine,movement restrictions,قيود الحركة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0133,palestine,military checkpoint,حاجز عسكري,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0134,palestine,road closure,إغلاق طريق,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0135,palestine,separation barrier,الجدار الفاصل,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0136,palestine,demolition order,أمر هدم,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0137,palestine,home demolition,هدم منزل,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0138,palestine,displacement,تهجير أو نزوح بحسب السياق,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0139,palestine,forced displacement,تهجير قسري,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0140,palestine,land confiscation,مصادرة الأراضي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0141,palestine,land seizure,الاستيلاء على الأرض,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0142,palestine,property damage,أضرار بالممتلكات,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0143,palestine,damage to agricultural assets,إضرار بالأصول الزراعية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0144,palestine,irrigation infrastructure,بنية تحتية للري,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0145,palestine,area under military control,منطقة خاضعة للسيطرة العسكرية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0146,palestine,settlement annexation,ضم المستوطنات,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0147,palestine,territorial annexation,ضم أراضٍ,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0148,palestine,administrative detention,اعتقال إداري,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0149,palestine,crossing point,معبر,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0150,palestine,humanitarian access,وصول المساعدات الإنسانية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0151,palestine,reconstruction,إعادة الإعمار,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0152,palestine,Palestinian Authority,السلطة الفلسطينية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0153,palestine,clearance revenues,أموال المقاصة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0154,palestine,withheld tax revenues,إيرادات ضريبية محتجزة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0155,palestine,Palestinian livelihoods,سبل عيش الفلسطينيين,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0156,palestine,farm income,دخل المزارعين,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0157,palestine,permit regime,نظام التصاريح,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0158,palestine,rights organization,منظمة حقوقية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0159,palestine,international observer,مراقب دولي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0160,palestine,forcible transfer,نقل قسري,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0161,palestine,settler impunity,إفلات المستوطنين من العقاب,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0162,conflict,armed conflict,نزاع مسلح,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0163,conflict,hostilities,أعمال عدائية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0164,conflict,military offensive,هجوم عسكري واسع,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0165,conflict,military operation,عملية عسكرية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0166,conflict,airstrike,غارة جوية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0167,conflict,drone strike,ضربة بطائرة مسيّرة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0168,conflict,missile attack,هجوم صاروخي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0169,conflict,ballistic missile,صاروخ باليستي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0170,conflict,unmanned aerial vehicle,مركبة جوية غير مأهولة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0171,conflict,armed group,جماعة مسلحة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0172,conflict,militant group,جماعة مسلحة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0173,conflict,paramilitary group,جماعة شبه عسكرية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0174,conflict,regular armed forces,القوات المسلحة النظامية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0175,conflict,defense ministry,وزارة الدفاع,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0176,conflict,defense spokesperson,متحدث باسم وزارة الدفاع,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0177,conflict,civilian casualties,ضحايا مدنيون,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0178,conflict,casualty figures,أرقام الضحايا,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0179,conflict,confirmed fatalities,وفيات مؤكدة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0180,conflict,reported fatalities,وفيات أُبلغ عنها,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0181,conflict,disputed casualty toll,حصيلة ضحايا متنازع عليها,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0182,conflict,independently verified,جرى التحقق منه بصورة مستقلة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0183,conflict,reportedly,بحسب التقارير,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0184,conflict,allegedly,وفقًا لادعاءات,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0185,conflict,according to witnesses,بحسب شهود عيان,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0186,conflict,the ministry claimed,زعمت الوزارة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0187,conflict,evacuation corridor,ممر إجلاء,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0188,conflict,humanitarian corridor,ممر إنساني,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0189,conflict,aid convoy,قافلة مساعدات,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0190,conflict,aid delivery,إيصال المساعدات,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0191,conflict,prisoner exchange,تبادل أسرى,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0192,conflict,war crime,جريمة حرب,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0193,conflict,crime against humanity,جريمة ضد الإنسانية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0194,conflict,international investigation,تحقيق دولي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0195,conflict,fact-finding mission,بعثة تقصي حقائق,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0196,conflict,state of emergency,حالة طوارئ,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0197,conflict,internally displaced person,نازح داخلي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0198,conflict,refugee,لاجئ,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0199,conflict,temporary shelter,مأوى مؤقت,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0200,conflict,humanitarian ceasefire,وقف إطلاق نار لأغراض إنسانية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0201,humanitarian,acute food insecurity,انعدام الأمن الغذائي الحاد,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0202,humanitarian,food security,الأمن الغذائي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0203,humanitarian,famine,مجاعة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0204,humanitarian,risk of famine,خطر حدوث مجاعة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0205,humanitarian,acute malnutrition,سوء التغذية الحاد,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0206,humanitarian,severe acute malnutrition,سوء التغذية الحاد الوخيم,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0207,humanitarian,food assistance,مساعدات غذائية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0208,humanitarian,humanitarian assistance,مساعدات إنسانية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0209,humanitarian,relief agency,وكالة إغاثة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0210,humanitarian,humanitarian funding,تمويل إنساني,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0211,humanitarian,funding shortfall,عجز تمويلي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0212,humanitarian,donor country,دولة مانحة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0213,humanitarian,aid cuts,تخفيض المساعدات,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0214,humanitarian,health-care access,إمكانية الحصول على الرعاية الصحية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0215,humanitarian,medical supplies,إمدادات طبية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0216,humanitarian,clean drinking water,مياه شرب نظيفة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0217,humanitarian,sanitation facilities,مرافق الصرف الصحي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0218,humanitarian,water scarcity,ندرة المياه,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0219,humanitarian,severe drought,جفاف شديد,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0220,humanitarian,flash flooding,فيضانات مفاجئة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0221,humanitarian,crop failure,فشل المحاصيل,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0222,humanitarian,livestock loss,نفوق الماشية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0223,humanitarian,climate shock,صدمة مناخية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0224,humanitarian,humanitarian needs,احتياجات إنسانية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0225,humanitarian,displacement camp,مخيم للنازحين,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0226,humanitarian,host community,مجتمع مضيف,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0227,humanitarian,livelihood support,دعم سبل العيش,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0228,humanitarian,food distribution,توزيع المواد الغذائية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0229,humanitarian,child protection,حماية الأطفال,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0230,humanitarian,emergency response,استجابة طارئة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0231,humanitarian,humanitarian appeal,نداء لتمويل الاستجابة الإنسانية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0232,humanitarian,relief operation,عملية إغاثة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0233,humanitarian,access to aid,إمكانية الوصول إلى المساعدات,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0234,humanitarian,underfunded response,استجابة تعاني نقص التمويل,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0235,humanitarian,nutrition clinic,عيادة تغذية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0236,humanitarian,public-health emergency,حالة طوارئ صحية عامة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0237,economics,gross domestic product,الناتج المحلي الإجمالي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0238,economics,real GDP,الناتج المحلي الإجمالي الحقيقي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0239,economics,nominal GDP,الناتج المحلي الإجمالي الاسمي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0240,economics,GDP growth,نمو الناتج المحلي الإجمالي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0241,economics,economic contraction,انكماش اقتصادي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0242,economics,recession,ركود اقتصادي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0243,economics,economic recovery,تعافٍ اقتصادي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0244,economics,uneven recovery,تعافٍ غير متكافئ,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0245,economics,growth rate,معدل النمو,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0246,economics,base effect,أثر سنة الأساس,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0247,economics,inflation,تضخم,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0248,economics,deflation,انكماش الأسعار,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0249,economics,disinflation,تباطؤ التضخم,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0250,economics,headline inflation,التضخم العام,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0251,economics,core inflation,التضخم الأساسي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0252,economics,consumer price index,مؤشر أسعار المستهلك,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0253,economics,producer price index,مؤشر أسعار المنتجين,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0254,economics,cost of living,تكلفة المعيشة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0255,economics,purchasing power,القوة الشرائية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0256,economics,consumer confidence,ثقة المستهلك,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0257,economics,consumer sentiment,معنويات المستهلكين,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0258,economics,household budget,ميزانية الأسرة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0259,economics,household income,دخل الأسرة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0260,economics,disposable income,الدخل المتاح للإنفاق,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0261,economics,food-price inflation,تضخم أسعار الغذاء,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0262,economics,energy-price shock,صدمة أسعار الطاقة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0263,economics,interest rate,سعر الفائدة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0264,economics,benchmark interest rate,سعر الفائدة المرجعي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0265,economics,policy rate,سعر الفائدة الأساسي للسياسة النقدية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0266,economics,basis point,نقطة أساس,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0267,economics,quarter-point increase,زيادة بمقدار ربع نقطة مئوية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0268,economics,rate hike,رفع سعر الفائدة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0269,economics,rate cut,خفض سعر الفائدة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0270,economics,rate hold,الإبقاء على سعر الفائدة دون تغيير,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0271,economics,central bank,بنك مركزي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0272,economics,Federal Reserve,مجلس الاحتياطي الاتحادي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0273,economics,monetary policy,السياسة النقدية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0274,economics,fiscal policy,السياسة المالية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0275,economics,government budget,الموازنة العامة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0276,economics,budget deficit,عجز الموازنة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0277,economics,fiscal deficit,عجز مالي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0278,economics,public debt,الدين العام,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0279,economics,sovereign debt,الدين السيادي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0280,economics,debt servicing,خدمة الدين,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0281,economics,government borrowing,الاقتراض الحكومي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0282,economics,tax revenue,إيرادات ضريبية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0283,economics,revenue shortfall,نقص الإيرادات,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0284,economics,public spending,الإنفاق العام,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0285,economics,capital expenditure,إنفاق رأسمالي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0286,economics,operating expenditure,إنفاق تشغيلي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0287,trade_markets,international trade,التجارة الدولية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0288,trade_markets,import tariff,رسوم جمركية على الواردات,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0289,trade_markets,customs duty,رسم جمركي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0290,trade_markets,trade barrier,حاجز تجاري,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0291,trade_markets,trade agreement,اتفاقية تجارية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0292,trade_markets,trade deficit,عجز تجاري,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0293,trade_markets,trade surplus,فائض تجاري,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0294,trade_markets,supply chain,سلسلة توريد,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0295,trade_markets,supply disruption,تعطل الإمدادات,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0296,trade_markets,shipping route,مسار شحن,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0297,trade_markets,maritime trade,التجارة البحرية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0298,trade_markets,shipping insurance,تأمين الشحن,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0299,trade_markets,freight cost,تكلفة الشحن,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0300,trade_markets,oil exports,صادرات النفط,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0301,trade_markets,crude oil,نفط خام,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0302,trade_markets,Brent crude,خام برنت,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0303,trade_markets,West Texas Intermediate,خام غرب تكساس الوسيط,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0304,trade_markets,barrel of oil,برميل نفط,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0305,trade_markets,oil refinery,مصفاة نفط,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0306,trade_markets,energy infrastructure,البنية التحتية للطاقة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0307,trade_markets,strategic waterway,ممر مائي استراتيجي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0308,trade_markets,Strait of Hormuz,مضيق هرمز,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0309,trade_markets,Bab el-Mandeb Strait,مضيق باب المندب,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0310,trade_markets,Red Sea,البحر الأحمر,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0311,trade_markets,shipping disruption,تعطل حركة الملاحة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0312,trade_markets,risk premium,علاوة المخاطر,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0313,trade_markets,market volatility,تقلبات السوق,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0314,trade_markets,market sentiment,معنويات السوق,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0315,trade_markets,investor confidence,ثقة المستثمرين,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0316,trade_markets,foreign direct investment,الاستثمار الأجنبي المباشر,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0317,trade_markets,portfolio investment,استثمار المحافظ المالية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0318,trade_markets,investment climate,مناخ الاستثمار,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0319,trade_markets,investment decision,قرار استثماري,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0320,trade_markets,exchange rate,سعر الصرف,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0321,trade_markets,currency depreciation,انخفاض قيمة العملة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0322,trade_markets,currency appreciation,ارتفاع قيمة العملة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0323,trade_markets,foreign-exchange reserves,احتياطيات النقد الأجنبي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0324,trade_markets,stock exchange,بورصة الأوراق المالية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0325,trade_markets,bond yield,عائد السندات,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0326,trade_markets,treasury bond,سند خزانة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0327,trade_markets,equity market,سوق الأسهم,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0328,trade_markets,commodity market,سوق السلع,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0329,trade_markets,insurance premium,قسط تأمين,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0330,trade_markets,transport cost,تكلفة النقل,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0331,trade_markets,logistics network,شبكة لوجستية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0332,trade_markets,trade corridor,ممر تجاري,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0333,business,small business,مشروع صغير,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0334,business,medium-sized enterprise,منشأة متوسطة الحجم,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0335,business,business confidence,ثقة قطاع الأعمال,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0336,business,operating costs,تكاليف التشغيل,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0337,business,production capacity,القدرة الإنتاجية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0338,business,productive assets,أصول إنتاجية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0339,business,capital investment,استثمار رأسمالي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0340,business,business closure,إغلاق منشأة تجارية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0341,business,bankruptcy,إفلاس,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0342,business,cash flow,تدفق نقدي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0343,business,liquidity,سيولة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0344,business,profit margin,هامش الربح,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0345,business,operating profit,ربح تشغيلي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0346,business,net profit,صافي الربح,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0347,business,operating loss,خسارة تشغيلية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0348,business,market share,حصة سوقية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0349,business,consumer demand,طلب المستهلكين,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0350,business,domestic demand,الطلب المحلي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0351,business,labor market,سوق العمل,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0352,business,unemployment rate,معدل البطالة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0353,business,youth unemployment,بطالة الشباب,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0354,business,employment opportunities,فرص عمل,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0355,business,job losses,فقدان وظائف,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0356,business,labor force participation,المشاركة في القوى العاملة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0357,business,wage growth,نمو الأجور,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0358,business,real wages,الأجور الحقيقية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0359,business,productivity,الإنتاجية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0360,business,public-sector payroll,فاتورة أجور القطاع العام,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0361,business,salary arrears,متأخرات الرواتب,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0362,business,industrial output,الإنتاج الصناعي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0363,business,retail sales,مبيعات التجزئة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0364,business,agricultural output,الإنتاج الزراعي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0365,business,reconstruction costs,تكاليف إعادة الإعمار,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0366,business,economic resilience,القدرة على الصمود الاقتصادي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0367,journalism,hard news,الأخبار الصلبة أو المباشرة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0368,journalism,soft news,الأخبار الخفيفة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0369,journalism,feature story,تقرير صحفي مطول,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0370,journalism,human-interest story,قصة صحفية ذات بعد إنساني,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0371,journalism,news lead,مقدمة الخبر,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0372,journalism,headline,عنوان صحفي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0373,journalism,subheading,عنوان فرعي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0374,journalism,dateline,سطر المكان والتاريخ,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0375,journalism,news agency,وكالة أنباء,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0376,journalism,newsroom,غرفة الأخبار,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0377,journalism,editorial,افتتاحية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0378,journalism,op-ed,مقال رأي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0379,journalism,opinion column,عمود رأي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0380,journalism,news analysis,تحليل إخباري,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0381,journalism,investigative report,تحقيق استقصائي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0382,journalism,press release,بيان صحفي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0383,journalism,official statement,بيان رسمي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0384,journalism,on the record,للنشر مع ذكر المصدر,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0385,journalism,off the record,غير قابل للنشر وفق اتفاق مع المصدر,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0386,journalism,anonymous source,مصدر مجهول الهوية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0387,journalism,eyewitness account,رواية شاهد عيان,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0388,journalism,direct quotation,اقتباس مباشر,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0389,journalism,indirect quotation,نقل غير مباشر,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0390,journalism,attribution,إسناد القول إلى مصدره,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0391,journalism,hedging,التحوط اللغوي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0392,journalism,editorial stance,موقف تحريري,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0393,journalism,neutral register,أسلوب محايد,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0394,journalism,loaded language,لغة مشحونة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0395,journalism,framing,تأطير إعلامي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0396,journalism,fact-checking,التحقق من الحقائق,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0397,journalism,corroboration,تدعيم الخبر بمصدر آخر,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0398,journalism,unverified claim,ادعاء غير متحقق منه,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0399,journalism,misleading headline,عنوان مضلل,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0400,journalism,omission,حذف,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0401,journalism,unjustified addition,إضافة غير مبررة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0402,journalism,paraphrasing,إعادة الصياغة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0403,journalism,literal translation,ترجمة حرفية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0404,journalism,communicative translation,ترجمة تواصلية,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0405,journalism,transposition,إبدال نحوي,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0406,journalism,modulation,تغيير زاوية التعبير,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0407,journalism,explicitation,إيضاح ضمني,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0408,journalism,register shift,تحول في مستوى الأسلوب,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0409,journalism,terminological consistency,اتساق المصطلحات,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0410,journalism,target language,اللغة الهدف,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0411,journalism,source language,اللغة المصدر,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0412,journalism,translation brief,تعليمات مهمة الترجمة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0413,journalism,revision,مراجعة الترجمة,True,True,Context-sensitive equivalence; check the source text and register.
+TERM-0414,journalism,proofreading,التدقيق اللغوي,True,True,Context-sensitive equivalence; check the source text and register.
