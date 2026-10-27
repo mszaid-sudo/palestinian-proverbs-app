@@ -1,8 +1,7 @@
 import streamlit as st
 import pandas as pd
 import os
-from google import genai
-from google.genai import types
+import google.generativeai as genai
 
 # إعدادات صفحة التطبيق
 st.set_page_config(
@@ -19,7 +18,6 @@ st.title("🇵🇸 تطبيق تحليل الأمثال الشعبية الفل�
 with st.sidebar:
     st.header("⚙️ إعدادات النظام")
     
-    # خانة إدخال مفتاح الـ API يدوياً لتجنب مشاكل الملفات السرية محلياً
     api_key = st.text_input(
         "Gemini API Key:", 
         value="", 
@@ -29,7 +27,6 @@ with st.sidebar:
     
     st.divider()
     
-    # البحث التلقائي عن ملف proverbs.csv في نفس المجلد
     csv_filename = "proverbs.csv"
     df_proverbs = None
     
@@ -66,8 +63,8 @@ if st.button("🚀 تحليل وترجمة المثل"):
         st.warning("⚠️ يرجى كتابة مثل شعبي للتحليل.")
     else:
         try:
-            # إعداد عميل Gemini بالنموذج الصحيح والمحدث
-            client = genai.Client(api_key=api_key)
+            # تهيئة مفتاح الـ API بالطريقة المستقرة
+            genai.configure(api_key=api_key)
             
             system_instruction = (
                 "You are an expert Palestinian folklorist, dialectologist, and Nida-trained functional translation theorist. "
@@ -79,14 +76,16 @@ if st.button("🚀 تحليل وترجمة المثل"):
                 "Tier 5: Idiomatic English Equivalent & 3-Step Decision Hierarchy."
             )
             
+            # استخدام النموذج المستقر عبر المكتبة الكلاسيكية
+            model = genai.GenerativeModel(
+                model_name='gemini-1.5-flash',
+                system_instruction=system_instruction
+            )
+            
             with st.spinner("⏳ جاري تحليل المثل عبر نموذج الذكاء الاصطناعي..."):
-                response = client.models.generate_content(
-                    model='gemini-2.5-flash',  # نموذج سريع ومستقر
-                    contents=user_proverb,
-                    config=types.GenerateContentConfig(
-                        system_instruction=system_instruction,
-                        temperature=0.2
-                    )
+                response = model.generate_content(
+                    user_proverb,
+                    generation_config=genai.types.GenerationConfig(temperature=0.2)
                 )
                 
                 st.success("✨ تم التحليل بنجاح!")
