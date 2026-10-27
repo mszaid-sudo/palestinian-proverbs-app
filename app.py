@@ -1,7 +1,8 @@
 import streamlit as st
 import pandas as pd
 import os
-import google.generativeai as genai
+import urllib.request
+import json
 
 # إعدادات صفحة التطبيق
 st.set_page_config(
@@ -63,9 +64,6 @@ if st.button("🚀 تحليل وترجمة المثل"):
         st.warning("⚠️ يرجى كتابة مثل شعبي للتحليل.")
     else:
         try:
-            # تهيئة مفتاح الـ API بالطريقة المستقرة
-            genai.configure(api_key=api_key)
-            
             system_instruction = (
                 "You are an expert Palestinian folklorist, dialectologist, and Nida-trained functional translation theorist. "
                 "Provide a rigorous 5-Tier Analysis for the given Palestinian proverb: "
@@ -76,21 +74,34 @@ if st.button("🚀 تحليل وترجمة المثل"):
                 "Tier 5: Idiomatic English Equivalent & 3-Step Decision Hierarchy."
             )
             
-            # استخدام النموذج المستقر عبر المكتبة الكلاسيكية
-            model = genai.GenerativeModel(
-                model_name='gemini-1.5-flash',
-                system_instruction=system_instruction
+            # الاتصال المباشر عبر REST API لتجنب أي مشاكل في المكتبات
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
+            
+            payload = {
+                "contents": [{"parts": [{"text": user_proverb}]}],
+                "system_instruction": {"parts": [{"text": system_instruction}]},
+                "generationConfig": {"temperature": 0.2}
+            }
+            
+            data = json.dumps(payload).encode("utf-8")
+            req = urllib.request.Request(
+                url, 
+                data=data, 
+                headers={"Content-Type": "application/json"}, 
+                method="POST"
             )
             
             with st.spinner("⏳ جاري تحليل المثل عبر نموذج الذكاء الاصطناعي..."):
-                response = model.generate_content(
-                    user_proverb,
-                    generation_config=genai.types.GenerationConfig(temperature=0.2)
-                )
-                
-                st.success("✨ تم التحليل بنجاح!")
-                st.markdown("---")
-                st.markdown(response.text)
+                with urllib.request.urlopen(req) as response:
+                    res_body = response.read().decode("utf-8")
+                    res_json = json.loads(res_body)
+                    
+                    # استخراج النص الناتج من الاستجابة
+                    output_text = res_json["candidates"][0]["content"]["parts"][0]["text"]
+                    
+                    st.success("✨ تم التحليل بنجاح!")
+                    st.markdown("---")
+                    st.markdown(output_text)
                 
         except Exception as e:
             st.error(f"حدث خطأ أثناء الاتصال بالـ API: {e}")
